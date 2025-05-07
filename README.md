@@ -1,10 +1,12 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-   <style>
-    body {
+  <title></title> <!-- 타이틀도 비워줍니다 -->
+  <style>
+    html, body {
       margin: 0;
+      padding: 0;
       background: #ffffff;
       display: flex;
       justify-content: center;
@@ -23,3 +25,4 @@
   <img src="https://raw.githubusercontent.com/sohndesighn/estonia/main/image1.png">
 </body>
 </html>
+
