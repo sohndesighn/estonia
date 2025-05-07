@@ -1,9 +1,8 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>estonia Image Gallery</title>
-   <style>
+  <style>
     body {
       margin: 0;
       background: #ffffff;
