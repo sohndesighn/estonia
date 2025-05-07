@@ -1,8 +1,8 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Estonia Gallery</title>
+  <title></title>
   <style>
     body {
       margin: 0;
@@ -19,6 +19,6 @@
   </style>
 </head>
 <body>
-  <img src="https://raw.githubusercontent.com/sohndesighn/estonia/main/image1.png" alt="Estonia">
+  <img src="https://raw.githubusercontent.com/sohndesighn/estonia/main/image1.png" alt="">
 </body>
 </html>
