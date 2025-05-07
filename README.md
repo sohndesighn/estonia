@@ -20,6 +20,6 @@
   </style>
 </head>
 <body>
-  <img src="https://raw.githubusercontent.com/sohndesighn/estonia/main/image1.png" alt="Estonia">
+  <img src="https://raw.githubusercontent.com/sohndesighn/estonia/main/image1.png" alt=" ">
 </body>
 </html>
