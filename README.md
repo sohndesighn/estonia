@@ -1,8 +1,7 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title></title>
   <style>
     body {
       margin: 0;
@@ -10,11 +9,12 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      min-height: 100vh;
+      height: 100vh;
     }
     img {
       max-width: 100%;
       height: auto;
+      display: block;
     }
   </style>
 </head>
