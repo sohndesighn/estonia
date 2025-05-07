@@ -2,23 +2,20 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <style>
-    html, body {
-      margin: 0;
-      padding: 0;
-      width: 100%;
-      height: 100%;
-      background-color: #ffffff;
-    }
+   <style>
     body {
+      margin: 0;
+      background: #ffffff;
       display: flex;
       justify-content: center;
       align-items: center;
+      flex-wrap: wrap;
+      min-height: 100vh;
     }
     img {
-      max-width: 100%;
-      max-height: 100%;
-      object-fit: contain;
+      max-width: 90%;
+      height: auto;
+      margin: 10px;
     }
   </style>
 </head>
