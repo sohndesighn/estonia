@@ -1,4 +1,4 @@
- 
+<!DOCTYPE html> 
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -20,6 +20,6 @@
   </style>
 </head>
 <body>
-  <img src="https://raw.githubusercontent.com/sohndesighn/estonia/main/image1.png" alt=" ">
+  <img src="https://raw.githubusercontent.com/sohndesighn/estonia/main/image1.png">
 </body>
 </html>
